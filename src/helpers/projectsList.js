@@ -19,51 +19,51 @@ import project06Big from "./../img/projects/06-big.jpg"
 
 const projects = [
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project01,
         imgBig: project01Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project02,
         imgBig: project02Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project03,
         imgBig: project03Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project04,
         imgBig: project04Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project05,
         imgBig: project05Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
     {
-        title: 'Gaming streaming portal',
+        title: 'Just filling',
         skills: 'React, Node.js',
         img: project06,
         imgBig: project06Big,
-        gitHubLink: 'https://githib.com',
+        gitHubLink: 'https://github.com/timkmit',
     },
 
 
