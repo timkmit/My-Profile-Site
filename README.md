@@ -1,3 +1,3 @@
-# 3D Сайт портфолио
+# Сайт портфолио
 
 [Лайв превью](https://portfolio-timkmit.vercel.app/)
