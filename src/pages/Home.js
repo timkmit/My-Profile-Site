@@ -15,7 +15,11 @@ const Home = () => {
                             </li>
                             <li className="content-list__item">
                                 <h2 className="title-2">Backend</h2>
-                                <p>Express, PostgreSQL, Prisma ORM</p>
+                                <p>NestJS, PostgreSQL, Prisma ORM</p>
+                            </li>
+                            <li className="content-list__item">
+                                <h2 className="title-2">Other</h2>
+                                <p>Docker, Nginx, Linux</p>
                             </li>
                         </ul>
 
