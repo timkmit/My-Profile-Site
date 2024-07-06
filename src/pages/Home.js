@@ -19,7 +19,7 @@ const Home = () => {
                             </li>
                             <li className="content-list__item">
                                 <h2 className="title-2">Other</h2>
-                                <p>Docker, Nginx, Linux</p>
+                                <p>Docker-compose, Nginx, Linux</p>
                             </li>
                         </ul>
 
