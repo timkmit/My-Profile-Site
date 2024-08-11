@@ -11,7 +11,7 @@ const Header = () => {
               <div className="header__text">
                   <p>with passion for learning and creating.</p>
               </div>
-              <a href="https://vk.com/t1mkm1t" className="btn">Write to me</a>
+              <a href="https://t.me/t1mkm1t" className="btn">Write to me</a>
           </div>
       </header>
      );
